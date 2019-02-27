@@ -23,3 +23,10 @@
 
 >set SMBUser Administrator
 >>set SMBPass
+
+
+--------------------------------Metasploit points to remember---------------------------------------------------------
+Session is created for a module
+can create multiple jobs and sessions
+can save sessions along with the config
+can run ruby code in msf 
